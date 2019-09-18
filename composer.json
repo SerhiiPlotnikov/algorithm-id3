@@ -1,0 +1,5 @@
+{
+  "autoload":{
+    "classmap":["Algorithm.php","Node.php","Tree.php"]
+  }
+}
